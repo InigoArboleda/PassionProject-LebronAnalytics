@@ -13,10 +13,10 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 2. **Responding to failure:** How does he play after a loss, and what changed after the 2011 Finals?
    - How his play style changed (shot locations, 3-pointers, assists)
    - Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
-3. **Memory vs. data:** Were the games I remember most really as big as they felt?
+3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
 
-## Data, Dataset that I am pulling from: 
+## Datasource/Dataset that I am pulling from: 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
 
 ## Tools
@@ -24,8 +24,8 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 
 | Excel | First look at the raw data |
 | Python (Jupyter, pandas) | Cleaning data and loading it into SQLite |
-| SQL (SQLite, DBeaver) | Answering the questions |
-| Tableau | Dashboards and visuals |
+| SQL (SQLite, DBeaver) | Creating Lebron database, fragmenting and magnifying the data, peeling the onion, answering the questions |
+| Tableau | Dashboards and visuals, painting the story |
 | Claude | Utilized for planning and debugging |
 | GitHub, Google Docs | Documentation |
 
