@@ -1,6 +1,6 @@
-# PassionProject-LebronAnalytics
+## PassionProject-LebronAnalytics
 
-## 14 Years of LeBron: A Fan's Data Story
+# Title: 14 Years of LeBron: A Fan's Data Story
 
 In 5th grade I got cut from my school’s basketball team. I remember crying so hard that my mom felt so bad for me that she marched back into the gym with me to ask the coach if there was any other way. (There wasn’t lol)
 
