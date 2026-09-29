@@ -20,14 +20,19 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
 
 ## Tools
-| Tool | What I used it for |
-
-| Excel | First look at the raw data |
-| Python (Jupyter, pandas) | Cleaning data and loading it into SQLite |
-| SQL (SQLite, DBeaver) | Creating Lebron database, fragmenting and magnifying the data, peeling the onion, answering the questions |
-| Tableau | Dashboards and visuals, painting the story |
-| Claude | Utilized for planning and debugging |
-| GitHub, Google Docs | Documentation |
+ Tool | What I used it for 
+ 
+- Excel | First look at the raw data |
+  
+- Python (Jupyter, pandas) | Cleaning data and loading it into SQLite |
+  
+- SQL (SQLite, DBeaver) | Creating Lebron database, fragmenting and magnifying the data, peeling the onion, answering the questions |
+  
+- Tableau | Dashboards and visuals, painting the story |
+  
+- Claude | Utilized for planning and debugging |
+  
+- GitHub, Google Docs | Documentation |
 
 ## Project structure
 
