@@ -9,7 +9,7 @@ So I got to work. Back then I couldn’t even run one lap around the gym without
 I have watched every Lebron game since, from 11 years old to 25. Being a Lebron fan in Chicago meant years of trash talk from classmates, plenty of stressful playoff games, and basketball that brought me and my dad closer. Now i am using data to check the receipts on my 14 years of fandom.
 
 ## Questions
-1. **The aging comparison:** How does LeBron's performance at each age compare to Jordan, Kobe, Kareem and Karl Malone?
+1. **The aging comparison:** How does LeBron's performance at each age compare to Jordan and Kobe?
 2. **Responding to failure:** How does he play after a loss, and what changed after the 2011 Finals?
    - How his play style changed (shot locations, 3-pointers, assists)
    - Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
