@@ -10,10 +10,11 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 
 ## Questions
 1. **The aging comparison:** How does LeBron's performance at each age compare to Jordan and Kobe?
-2. **Responding to failure:** How does he play after a loss, and what changed after the 2011 Finals?
+2. **Responding to failure:**
+   - How does he play after a loss, and what changed after the 2011 Finals?
    - How his play style changed (shot locations, 3-pointers, assists)
    - Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
-3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
+4. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
 
 ## Datasource/Dataset that I am pulling from: 
@@ -42,6 +43,9 @@ notebooks/        Jupyter notebooks (cleaning and exploration)
 sql/              SQL queries
 tableau/          Tableau workbooks
 
+
+## ABOUT THE DATA
+See the [data dictionary](docs/data_dictionary.md) for column definitions and data issue
 
 ## Findings
 *(coming soon)*
