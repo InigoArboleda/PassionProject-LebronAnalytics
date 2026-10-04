@@ -1,4 +1,4 @@
-# Data Dictionary
+# ABOUT THE DATA
 
 Everything I learned about my data before analyzing it: where it came from, what each column means, and the problems I found.
 
