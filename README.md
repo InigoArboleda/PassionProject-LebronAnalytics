@@ -67,22 +67,22 @@ See the [data dictionary](Data%20Dictionary.md)
 - *Jordan dropped about 10 points from his prime to his late career, and Kobe about 11. LeBron dropped less than 2 points across his entire 23-season career.*
 
 **What stood out to me:**
-- **Jordan and Kobe peaked in their 20s.** All of their top 5 scoring seasons came between ages 22 and 29.
-- **LeBron's top 5 seasons span ages 21 to 38.** His 2nd best scoring season (30.3) came at 37, older than Kobe ever played.
-- **He never fell off a cliff.** He stayed within about 6 points of his peak from age 22 to 39. Jordan and Kobe each finished more than 17 points below theirs.
-- **His game changed as he aged.** His assists went up from 6.7 per game in his early 20s to about 8 in his 30s.
-- **The age chart is mine at the start and end.** LeBron was the top scorer of the three at ages 19–21 and every age from 35 on. Jordan and Kobe owned the middle years (22–34).
+- Jordan and Kobe peaked in their 20s. All of their top 5 scoring seasons came between ages 22 and 29.
+- LeBron's top 5 seasons came between ages 21 to 38. His 2nd best scoring season (30.3) was when he was 37, which is older than Kobe ever played.
+- LeBron never drastically dropped his averages. He stayed within about 6 points of his peak from age 22 to 39. Jordan and Kobe each finished more than 17 points below theirs.
+- His game changed as he aged. His assists went up from 6.7 per game in his early 20s to about 8 in his 30s.
+- LeBron was the top scorer of the three at ages 19–21 and every age from 35 on. Jordan and Kobe owned the middle years (22–34).
 
-**The catch: availability.**
+**Availability**
 LeBron's late-career numbers are strong *per game*, but he played less. He averaged about 77 games a season before 30 and about 61 from age 35 on, missing roughly a quarter of each season.
 
-**How I kept the comparison fair:**
+**How I 'unbias' the comparisons between the players:**
 - I checked which ages all three players actually have seasons for. Jordan missed age 30 and 35–37 to retirement, and Kobe retired at 37. After 39, LeBron has no one left to compare to.
 - I re-ran the comparison without injury-shortened seasons (under 50 games). The main finding didn't change.
-- I counted a 50-game season as full when the whole league only played 50 games (the 1998-99 lockout).
+- I counted a 50-game season as full and uder 50 games as short seasons. Ex. the whole league only played 50 games (the 1998-99 lockout).
 
-**What this means to me as a fan:**
-I became a fan in 2012-13, when LeBron was 28. The data says I started watching right before the part of his career that made him different: not his peak, but how long he held it.
+**What this means to me as a LeBron fan:**
+I became a fan in 2012-13, when LeBron was 28. Based off of the data and my findings, the data shows that I started watching right before the part of his career that made him different: not his peak, but how long he held it.
 
 ## What I'd like to further explore
 - How his playstyle changed (shot locations, 3-pointers, assists)
