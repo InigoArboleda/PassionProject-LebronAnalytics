@@ -45,7 +45,7 @@ tableau/          Tableau workbooks
 
 
 ## ABOUT THE DATA
-See the [data dictionary](docs/data_dictionary.md)
+See the [data dictionary](Data%20Dictionary.md)
 
 ## Findings
 
