@@ -45,7 +45,7 @@ tableau/          Tableau workbooks
 
 
 ## ABOUT THE DATA
-See the [data dictionary](Data Dictionary.md) for column definitions and data issue
+See the Data Dictionary.md or column definitions and data issue
 
 ## Findings
 *(coming soon)*
