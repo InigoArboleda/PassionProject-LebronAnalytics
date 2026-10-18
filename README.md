@@ -60,9 +60,9 @@ See the [data dictionary](Data%20Dictionary.md)
 | Veteran (30–34) | 26.4 | 28.9 | 26.9 |
 | Late (35+) | 25.8 | 21.5 | 17.9 |
 
-*Points per game, averaged across the seasons in each stage.
-*Table references question 14 from SQL script. Lines 633-672
-*Jordan dropped about 10 points from his prime to his late career, and Kobe about 11. LeBron dropped less than 2 points across his entire 23-season career.
+*Points per game, averaged across the seasons in each stage.*
+*Table references question 14 from SQL script. Lines 633-672*
+*Jordan dropped about 10 points from his prime to his late career, and Kobe about 11. LeBron dropped less than 2 points across his entire 23-season career.*
 
 **What stood out to me:**
 - **Jordan and Kobe peaked in their 20s.** All of their top 5 scoring seasons came between ages 22 and 29.
