@@ -44,8 +44,9 @@ sql/              SQL queries
 tableau/          Tableau workbooks
 
 
-## ABOUT THE DATA
+## About the data
 See the [data dictionary](Data%20Dictionary.md)
+
 
 ## Findings
 
