@@ -50,6 +50,7 @@ See the [data dictionary](Data%20Dictionary.md)
 ## Findings
 
 ### 1. The aging comparison: LeBron vs. Jordan vs. Kobe
+[View the interactive chart on Tableau Public](https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/AgingCurve)
 
 **Jordan and Kobe were the better scorers at their peaks. But, LeBron's edge is that he barely declined.
 
