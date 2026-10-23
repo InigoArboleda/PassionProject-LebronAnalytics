@@ -11,8 +11,8 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 ## Questions
 1. **The aging comparison:** How does LeBron's performance at each age compare to Jordan and Kobe?
 2. **Responding to failure:**
-   - How does he play after a loss, and what changed after the 2011 Finals?
-   - How his play style changed (shot locations, 3 pointers, assists)
+   - How does he play after a loss?
+   - What changed after the 2011 Finals?
    - Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
 3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
