@@ -21,6 +21,13 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 ## Datasource/Dataset that I am pulling from: 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
 
+## What I built
+- **Data:** 8 CSV files from Basketball-Reference (LeBron, Jordan and Kobe season stats, and 3 seasons of LeBron game logs), explored in Excel and documented in a data dictionary
+- **Python:** 3 data cleaning notebooks
+- **SQL:** a SQLite database I designed (3 tables, 2 views), with 20+ analysis queries using and practicing joins, CTEs, CASE and window functions
+- **Tableau:** 5 charts and a published, interactive dashboard
+
+  
 ## Tools
  Tool | What I used it for 
  
