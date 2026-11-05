@@ -1,6 +1,4 @@
-## PassionProject-LebronAnalytics
-
-# Title: 14 Years of LeBron: A Fan's Data Story
+# 14 Years of LeBron: A Fan's Data Story
 
 In 5th grade I got cut from my school’s basketball team. I remember crying so hard that my mom felt so bad for me that she marched back into the gym with me to ask the coach if there was any other way. (There wasn’t lol)
 
@@ -125,9 +123,8 @@ LeBron's late career numbers are strong per game, but he played less. He average
 **What this means to me as a LeBron fan:**
 I became a fan in 2012-13, when LeBron was 28. Based off of the data and my findings, the data shows that I started watching right before the part of his career that made him different: not his peak, but how long he held it.
 
-## What I'd like to further explore
-- How his play style changed (shot locations, 3 pointers, assists)
-- Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
+## 3. Memory vs. data:
+- Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
 
 
