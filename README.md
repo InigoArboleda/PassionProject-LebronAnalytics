@@ -16,6 +16,8 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
    - Comparing his eras: Cleveland, Miami, Cleveland again, the Lakers
 3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
+## Tableau Dashboard link: 
+- https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
 
 ## Datasource/Dataset that I am pulling from: 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
