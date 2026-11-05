@@ -18,6 +18,8 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 
 ## Tableau Dashboard link: 
 - https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
+<img width="2398" height="1998" alt="LeBron Dashboard" src="https://github.com/user-attachments/assets/5d677afe-7c4e-4fc2-8f5e-03c1da098d93" />
+
 
 ## Datasource/Dataset that I am pulling from: 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
@@ -69,6 +71,41 @@ See the [data dictionary](Data%20Dictionary.md)
 - *Table references question 14 from SQL script. Lines 633-672*
 
 - *Jordan dropped about 10 points from his prime to his late career, and Kobe about 11. LeBron dropped less than 2 points across his entire 23 season career.*
+
+### 2. Responding to failure: after losses, and after the 2011 Finals
+
+**The short version:** After the 2011 Finals, LeBron didn't score more. He scored smarter, and that's when the Heat won two titles.
+
+**What changed after the 2011 Finals**
+
+| | Before (2010-11) | After (2011-12 and 2012-13) |
+|---|---|---|
+| Points per game | 26.7 | 26.9 |
+| Field goal % | 51.0% | 54.9% |
+| Shots per game | 18.8 | 18.3 |
+| Turnovers | 3.6 | 3.2 |
+| Game Score | 21.7 | 23.7 |
+
+- His scoring stayed the same, but he got there on fewer shots, with better shooting and fewer turnovers.
+- He moved his shots closer to the basket: shots at the rim went from 28% to 37% of his attempts, and long 2-pointers dropped from 26% to 20%.
+
+**How he played after a loss**
+- In 2010-11, he scored 2.6 more points after a loss (28.5 vs. 25.9) and had a higher Game Score.
+- In the two title seasons, there was almost no difference. He played the same whether his team had just won or lost.
+- My read: in his first Miami season, losses fired him up. By the title years, his level stayed the same no matter what.
+
+**How the team bounced back**
+- The Heat won 64% of games after a loss in 2010-11, 67% in 2011-12, and 80% in 2012-13. They got better at responding to losses every season.
+- In 2012-13 (the year of their 27-game winning streak), a loss didn't affect them at all: 80% after a loss and 80% after a win.
+
+**How I kept it fair**
+- I kept the games LeBron missed, so "the previous game" is always the team's last game, even if he sat out.
+- I caught that importing the data had turned missing games into zeros (empty text, not NULL), which made his averages look about a point lower. I fixed it before analyzing.
+
+**What this means to me as a fan:**
+- Getting into Lebron's career during his infamous 2011 NBA finals performance, showed me as a id that when I was cut from my school's basketball tryouts in 5th grade that you don't bounce back by doing more of the same, you get better at the right things. The data says LeBron did the same thing after the 2011 Finals!
+
+
 
 **What stood out to me:**
 - Jordan and Kobe peaked in their 20s. All of their top 5 scoring seasons came between ages 22 and 29.
