@@ -15,7 +15,7 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 
 ## Tableau Dashboard link: 
 - https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
-<img width="800" height="1998" alt="LeBron Dashboard" src="https://github.com/user-attachments/assets/5d677afe-7c4e-4fc2-8f5e-03c1da098d93" />
+<img width="800" alt="LeBron Dashboard" src="https://github.com/user-attachments/assets/5d677afe-7c4e-4fc2-8f5e-03c1da098d93" />
 
 
 ## Datasource/Dataset that I am pulling from: 
@@ -36,14 +36,6 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
   
 - GitHub, Google Docs | Documentation |
 
-## Project structure
-
-data/raw/         original CSVs, never edited
-data/processed/   cleaned CSVs and lebron.db (SQLite)
-notebooks/        Jupyter notebooks (cleaning and exploration)
-sql/              SQL queries
-tableau/          Tableau workbooks
-
 
 ## About the data
 See the [data dictionary](Data%20Dictionary.md)
@@ -52,7 +44,8 @@ See the [data dictionary](Data%20Dictionary.md)
 ## Findings
 
 ### 1. The aging comparison: LeBron vs. Jordan vs. Kobe
-[View the interactive chart on Tableau Public](https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/AgingCurve)
+[View the interactive chart on Tableau Public]
+https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
 
 **Jordan and Kobe were the better scorers at their peaks. But, LeBron's edge is that he barely declined.**
 
