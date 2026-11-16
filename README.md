@@ -11,7 +11,8 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 2. **Responding to failure:**
    - How does he play after a loss?
    - What changed after the 2011 Finals?
-3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
+3. **Memory vs. data:** Were the games I remember most really as big as they felt? Walking down memory lane and reliving the moments I remembered most while being a LeBron fan for so long. But now with data.
+
 
 ## Tableau Dashboard link: 
 - https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
