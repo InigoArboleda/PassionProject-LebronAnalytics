@@ -25,10 +25,10 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 - [Basketball-Reference.com](https://www.basketball-reference.com/players/j/jamesle01.html): season stats and game logs, 2003–present
 
 ## What I built
-- **Data:** 8 CSV files from Basketball-Reference (LeBron, Jordan and Kobe season stats, and 3 seasons of LeBron game logs), explored in Excel and documented in a data dictionary
-- **Python:** 3 data cleaning notebooks
-- **SQL:** a SQLite database I designed (3 tables, 2 views), with 20+ analysis queries using and practicing joins, CTEs, CASE and window functions
-- **Tableau:** 5 charts and a published, interactive dashboard
+- **Data:** 13 CSV files from Basketball-Reference (LeBron, Jordan and Kobe season stats, as well as LeBron regular and playoff game logs)
+- **Python:** 4 data cleaning notebooks
+- **SQL:** a SQLite database I designed (4 tables, 3 views), with 20+ analysis queries using and practicing joins, CTEs, CASE and window functions
+- **Tableau:** 6 charts and a published, interactive dashboard
 
   
 ## Tools
@@ -124,7 +124,7 @@ I became a fan in 2012-13, when LeBron was 28. Based off of the data and my find
 
 
 
-## 3. Memory vs. data: Coming soon
+## 3. Memory vs. data: 
 - Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
 
