@@ -16,7 +16,9 @@ I have watched every Lebron game since, from 11 years old to 25. Being a Lebron 
 
 ## Tableau Dashboard link: 
 - https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard
-
+<a href="https://public.tableau.com/app/profile/inigo.arboleda/viz/LebronAnalytics/LeBronDashboard">
+  <img src="d5.%20LeBron%20Dashboard.png" width="800" alt="14 Years of LeBron Tableau dashboard">
+</a>
 
 
 ## Datasource/Dataset that I am pulling from: 
