@@ -124,9 +124,24 @@ I became a fan in 2012-13, when LeBron was 28. Based off of the data and my find
 
 
 
-## 3. Memory vs. data: 
-- Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
+## 3. Memory vs. data: Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
+
+**The short version:** (1-2 sentences: the 11 of 14 finding and the block)
+- When coming up with my most memorable/favorite LeBron moments I remembered his impact he had in the games as well as the impact he had to the fans like me watching across their living rooms.
+- From the 5 memories that I listed, I guessed the points i think he had and compare it to the data that actually told me how much he scored in that specific memory.
+- Out of the 14 total games, I was correct 11 times of 14. But out of the 'wrong guessed' memories, the irony happens when the #1 ranked memory I listed was the one I got wrong. This being the 2016 Finals Game 7 vs GSW. I guessed that he had 35 points but actually only scored 27 points. The reason why I was wrong with my #1 memory was because I remembered the atmosphere, the pressure, the anxiety, the impact he had this game. This game was the game LeBron had one of the greatest sports moments with his game saving 'block'.
 
 
+**How I tested it**
+(you ranked your memories and guessed his points BEFORE looking)
+- 
 
+**What I found**
+(the table below, then 2-3 bullets)
+
+**How I kept it fair**
+(the caveats below)
+
+**What this means to me as a fan:**
+(the block, how it felt, your dad, 14 years of watching)
 
