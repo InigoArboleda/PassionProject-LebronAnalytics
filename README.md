@@ -159,5 +159,19 @@ Based off of my findings:
 
 
 **What this means to me as a fan:**
-(the block, how it felt, your dad, 14 years of watching)
+
+I've watched LeBron for 14 years, and I thought I remembered his biggest games pretty well! The data showed I actually undersold him. He beat my guess in 11 of 14 games.
+
+But the game I remembered most was one where he scored less than I guessed. I remembered a huge scoring night in Game 7 of the 2016 Finals, and he had 27. What I never forgot was the block!
+
+I was at home watching with my dad, who left the room because he was convinced he would jinx the Cavs and they'd lose lol. When LeBron got that block, my heart stopped. I wasn't even celebrating yet, I was locked in on what they'd do with the next possession. 
+
+Those in the same boat as me as a LeBron fan, knows the feeling where literally every possession had to be perfect this entire game to pull off this comeback against a 73-win Warriors team, one of the greatest teams in NBA history.
+
+When it was over, my dad was speechless. He's a Kobe fan the way I'm a LeBron fan, and I could tell that night solidified LeBron as the GOAT for him. Then I did what every fan I knew was doing and posted it on my IG story to celebrate LeBron and the Cavs iconic comeback lol. 'CLEVELAND THIS IS FOR YOUUUU!'
+
+This project taught me that data can tell me what happened, but it can't tell me how it felt.
+
+
+
 
