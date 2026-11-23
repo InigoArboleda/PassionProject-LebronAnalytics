@@ -126,21 +126,36 @@ I became a fan in 2012-13, when LeBron was 28. Based off of the data and my find
 
 ## 3. Memory vs. data: Were the games I remember most really as big as they felt? Walk down memory lane and reliving those moments that I have now backed up with data.
 
-**The short version:** (1-2 sentences: the 11 of 14 finding and the block)
+**The short version:** 
 - When coming up with my most memorable/favorite LeBron moments I remembered his impact he had in the games as well as the impact he had to the fans like me watching across their living rooms.
 - From the 5 memories that I listed, I guessed the points i think he had and compare it to the data that actually told me how much he scored in that specific memory.
 - Out of the 14 total games, I was correct 11 times of 14. But out of the 'wrong guessed' memories, the irony happens when the #1 ranked memory I listed was the one I got wrong. This being the 2016 Finals Game 7 vs GSW. I guessed that he had 35 points but actually only scored 27 points. The reason why I was wrong with my #1 memory was because I remembered the atmosphere, the pressure, the anxiety, the impact he had this game. This game was the game LeBron had one of the greatest sports moments with his game saving 'block'.
 
 
 **How I tested it**
-(you ranked your memories and guessed his points BEFORE looking)
-- 
+My memories (I ranked my fav lebron moments before looking at any data or stats to avoid any outside influence):
+   - I guessed my memories and guessed his points before doing research on his actual stats
+1. 2016 Finals comeback (Games 5-7). The entire series. Once LeBron and the Cavs started the comeback, the whole story and series was so captivating. In my opinion this reminded me of a david and goliath story. I think/guessing that his stats were around 35 ppg and like 7 reb and 7 assists
+2. 2012 ECF Game 6 at Boston. I think his stats were like 30 ppg. and in this game I remember the feeling that he barely missed and had like 40 points I am guessing based off of my memory
+3. 2018 playoffs: Indiana game winner, Toronto series, ECF Games 6-7 vs Boston. The last two boston games and also that indiana series game winners and the toronto calling 'lebronto' after he delivered a straight clinic against them. I think he averaged like low to mid 30 ppg and truly remember that he took control of the entire scoring for his team. 
+4. 2013 Finals Games 6-7 vs San Antonio. People love to say Ray Allen won that game, but people forget the consecutive points and efficiency scoring performance LeBron had that fourth quarter that opened up the Heat to even compete in a close game for Ray Allen to hit his clutch 3 pointer. Also people forget that the 3 point shot Ray Allen hit, did not win the game but allowed them to go OT. And in OT lebron was the finisher and closer. He then kept it rolling and exploded the next game to win his first ever ring.
+I am guessing that LeBron had 30 pts in Game 6
+5. Passing Kareem (Feb 2023 vs OKC) LeBron being known for being a pass first player, ends up the number one scorer in the entire nba histroy is insane. Shows how good and complete he is as a player. The dedication to be great on all aspects of the game. If I remember correctly, I think he must have scored about 35 pts this game.
 
 **What I found**
-(the table below, then 2-3 bullets)
+Based off of my findings:
+
+- My biggest under guess was his 2018 ECF Game 6 vs Boston performance. I guessed his scored 32 points but ended up having a much higher scoring game with 46 points.
+- My second biggest under guess was another 2018 playoff performance vs Indiana in Round 1 Game 5. I guessed he scored 32 points but ended up scoring 44 points.
+- My third biggest under guess was yet again in his 2018 playoff run vs Toronto in Round 2 Game 2, guessing he scored 32 points. But ended up scoring another 40 point game with 43 points.
+- My closest guess was with his 2013 Finals Game 6 vs San Antonio performance. I guessed 30 points and he dropped 32 points.
+- And lastly, my #1 memory of his. His 2016 Finals Game 7 vs Golden State, I guessed 35 points but he ended up scoring lower with 27 points. But the moment felt so big because of 'the block'.
 
 **How I kept it fair**
-(the caveats below)
+- I wrote my guessed and favorite memories before looking at any stats
+- Out Lebron's 20 + year career, I was able to pull my 5 most memorable and favorite performances of his, totaling to 14 games. Telling me more about my emotions reliving these memories, not about his whole career.
+- Points do not capture everything. Which is the whole impact and point of 'the block'!
+
 
 **What this means to me as a fan:**
 (the block, how it felt, your dad, 14 years of watching)
