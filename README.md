@@ -154,7 +154,8 @@ Based off of my findings:
 **How I kept it fair**
 - I wrote my guessed and favorite memories before looking at any stats
 - Out Lebron's 20 + year career, I was able to pull my 5 most memorable and favorite performances of his, totaling to 14 games. Telling me more about my emotions reliving these memories, not about his whole career.
-- Points do not capture everything. Which is the whole impact and point of 'the block'!
+- Points do not capture everything. Which is the whole impact and point of 'the block'! From 'the block' I remembered how big the game was and how big the game felt. My feelings turned my guess into a high scoring guess. The game was huge, BUT not just because of his scoring.
+     - This is important because stats measure what is countable like points. But they can miss context. Just like with this LeBron moment. The biggest play of my #1 memory of LeBron's was a block that added 0 points to his stat line.
 
 
 **What this means to me as a fan:**
